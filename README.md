@@ -7,3 +7,6 @@ The method is described by Smith and Fox (2024, https://doi.org/10.1029/2023JF00
 The Clearwater DEM used as an example can be found at DOI: 10.17632/pbppkd7gwn.1, and the outlet.kml file to use with it can be found in the INCA repository.
 
 To run, modify the file RunModel.m as desired, and then run it.
+
+This code requires TopoToolbox to run, which can be downloaded here: https://topotoolbox.wordpress.com/
+It has only been tested with TopoToolbox 2, and it may or may not work with other versions.
